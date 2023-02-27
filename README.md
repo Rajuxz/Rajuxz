@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-⚒️ Java/ PHP /Python/ Vue / Django /Flask<br>💻 I love to write code.<br>💭 Ask me anything at Django !<br>
+⚒️ Java/ PHP /Python/ Vue / Django /Flask<br>💻 I love to write code.<br>💭 Ask me anything about Django !<br>
 
 
 ## 🌐 Socials:
