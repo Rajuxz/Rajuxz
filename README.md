@@ -1,6 +1,6 @@
 # 💫 About Me:
 ```py
-class AboutMe(Rajuxz):
+class AboutMe:
 	@staticmethod
 	def contact() -> tuple:
 	    facebook  = "Rajuxz044"
