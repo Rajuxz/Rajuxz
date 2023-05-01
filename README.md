@@ -1,13 +1,41 @@
 # 💫 About Me:
-⚒️ Java/ PHP /Python/ Vue / Django /Flask<br>💻 I love to write code.<br>
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rajuxz044)
-<br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raju._kh) 
-<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raju-xz) 
-<br>[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rajuxz_)        
+```py
+class AboutMe(Rajuxz):
+	@staticmethod
+	def contact() -> tuple:
+	    facebook  = "Rajuxz044"
+	    instagram = "raju._kh"
+              linkedin = "raju-xz"
+	    email   = "emailme.atrajankhanal@gmail.com"
+	    
+	    return facebook,instagram,linkedin
+	
+	@staticmethod
+	def about() -> tuple:
+		langs         = ['Nepalese', 'English', 'Hindi']
+		nationality = ['Nepali']
+		age           = 20
+		
+		return langs, nationalitiy, age
+	
+	@staticmethod
+	def specs() -> tuple:
+		langs = {
+			'expert':   ['Java',"C#"],
+			'intermediate': ['python', 'js'],
+			'learning': ['Django', 'Vue', 'Flask', 'AI/ML','Android']
+		}
+		specialities  = ['fullstack']
+		environnement = ['vscode','Android Studio','Visual Studio']
+		
+		return langs, specialities, environnement
+                    
+if __name__ == "__main__":
+          AboutMe.contact()
+          Aboutme.about()
+          Aboutme.specs()
           
+``` 
 # 💻 Tech Stack:
 ## Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  <br>
@@ -20,15 +48,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) <br>
+
  ## Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
   
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) <br>
-  
-## Programming Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) <br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
+
 
 ## Hosting / SaaS
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) <br>
