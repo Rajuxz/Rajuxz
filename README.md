@@ -5,7 +5,7 @@ class AboutMe:
 	def contact() -> tuple:
 	    facebook  = "Rajuxz044"
 	    instagram = "raju._kh"
-              linkedin = "raju-xz"
+            linkedin = "raju-xz"
 	    email   = "emailme.atrajankhanal@gmail.com"
 	    
 	    return facebook,instagram,linkedin
