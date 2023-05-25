@@ -36,8 +36,3 @@
 
 ## Others
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br>
-# 📊 GitHub Stats:  
- 
-![](https://github-readme-stats.vercel.app/api?username=Rajuxz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rajuxz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajuxz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
