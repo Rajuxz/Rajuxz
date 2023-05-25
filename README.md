@@ -1,41 +1,8 @@
 # About Me:
-```py
-class AboutMe:
-	@staticmethod
-	def contact() -> tuple:
-	    facebook  = "Rajuxz044"
-	    instagram = "raju._kh"
-            linkedin = "raju-xz"
-	    email   = "emailme.atrajankhanal@gmail.com"
-	    
-	    return facebook,instagram,linkedin
-	
-	@staticmethod
-	def about() -> tuple:
-		langs         = ['Nepalese', 'English', 'Hindi']
-		nationality = ['Nepali']
-		age           = 20
-		
-		return langs, nationalitiy, age
-	
-	@staticmethod
-	def specs() -> tuple:
-		langs = {
-			'expert':   ['Java',"C#"],
-			'intermediate': ['python', 'js'],
-			'learning': ['Django', 'Vue', 'Flask', 'AI/ML','Android']
-		}
-		specialities  = ['fullstack']
-		environnement = ['vscode','Android Studio','Visual Studio']
-		
-		return langs, specialities, environnement
-                    
-if __name__ == "__main__":
-          AboutMe.contact()
-          Aboutme.about()
-          Aboutme.specs()
-          
-``` 
+ Hello, I'm Rajan Khanal. I love technology, coding, and reading books.<br> 
+ It's my passion to explore the world of programming and constantly learn new things in the tech field.
+ 
+
 # 💻 Tech Stack:
 ## Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  <br>
