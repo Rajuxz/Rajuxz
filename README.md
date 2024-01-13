@@ -1,7 +1,7 @@
 # About Me:
- Hello, I'm Rajan Khanal. I love technology, coding, and reading books.<br> 
- It's my passion to explore the world of programming and constantly learn new things in the tech field.
- 
+ Hello, I'm Rajan Khanal. I am a passionate web developer specializing django and dotnet who thrive on crafting elegant
+and efficient solutions that not only meet the technical requirements but also user expectations. <br>
+Besides coding, you'll often catch me enjoying a good book or playing chess, maybe even drooling a bit over both! 
 
 # 💻 Tech Stack:
 ## Backend
@@ -14,7 +14,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br>
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) <br>
 
  ## Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
