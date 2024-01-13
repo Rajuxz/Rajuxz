@@ -1,5 +1,5 @@
 # About Me:
- Hello, I'm Rajan Khanal. I am a passionate web developer specializing django and dotnet who thrive on crafting elegant
+ Hello, I'm Rajan Khanal. I am a passionate web developer specializing django and dotnet <br> who thrive on crafting elegant
 and efficient solutions that not only meet the technical requirements but also user expectations. <br>
 Besides coding, you'll often catch me enjoying a good book or playing chess, maybe even drooling a bit over both! 
 
