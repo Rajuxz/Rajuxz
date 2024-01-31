@@ -1,10 +1,51 @@
-# About Me:
- Hello, I'm Rajan Khanal. I am a passionate web developer specializing django and dotnet <br> who thrive on crafting elegant
-and efficient solutions that not only meet the technical requirements but also user expectations. <br>
-Besides coding, you'll often catch me enjoying a good book or playing chess, maybe even drooling a bit over both! 
+<img src="https://i.pinimg.com/736x/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg" style="height:400px;width:1200px; object-fit:cover;"/>
+
+# 🧑‍💻 About me
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=54c5f8&random=false&width=435&lines=Rajan+Khanal)
+
+Hey there, I'm a self-taught software developer who loves creating web solutions using Django and Dotnet Core. Currently, I'm delving into frontend frameworks like Vue.js and refining my skills in Tailwind CSS. Apart from coding, I enjoy immersing myself in novels and playing chess ♟️. Let's chat about tech, literature, or strategy – always up for a new challenge !<br><br>
+`Let's Connect`
+<p align="left">
+  <a href="https://www.facebook.com/Rajuxz044/" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Rajuxz044"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://www.instagram.com/raju._kh/" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="rajukh"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://www.linkedin.com/in/rajan-khanal/" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="rajankhanal"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://twitter.com/Rajan_KhanalX" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="RajanKhanalX"
+      height="30"
+      width="40"
+  /></a>
+</p>
+
+<hr />
 
 # 💻 Tech Stack:
+
 ## Backend
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  <br>
  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) <br>
  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)<br>
