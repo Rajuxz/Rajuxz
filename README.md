@@ -1,5 +1,3 @@
-<img src="https://i.pinimg.com/736x/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg" style="height:400px;width:1200px; object-fit:cover;"/>
-
 # 🧑‍💻 About me
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=54c5f8&random=false&width=435&lines=Rajan+Khanal)
 
