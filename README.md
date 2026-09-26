@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=54c5f8&random=false&width=435&lines=Rajan+Khanal;Full+Stack+Developer;.NET+Core+%7C+React+%7C+Next.js)
 
-> I am a full stack developer with a focus on **.NET Core** and **React**.  
+> I am a full stack developer with a focus on **.NET Core**, **FastApi**, and **Next.js**.  
 > I enjoy solving problems with clean, maintainable code.  
 > I love building things and seeing ideas turn into working products.  
 > Apart from coding, you'll find me reading novels — and sometimes on chess.com. ♟️
